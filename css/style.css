@@ -3,8 +3,8 @@
 }
 
 body {
-  font-family: "Muli", sans-serif;
-  background-image: url("../image/atmosphere-background-bright-clouds-19670.jpg");
+  font-family: 'Muli', sans-serif;
+  background-image: url('../image/atmosphere-background-bright-clouds-19670.jpg');
 }
 
 .h1 {
@@ -88,7 +88,7 @@ body {
 /* ---- button-group ---- */
 
 .button-group:after {
-  content: "";
+  content: '';
   display: block;
   clear: both;
 }
@@ -118,7 +118,7 @@ body {
 
 /* clear fix */
 .grid:after {
-  content: "";
+  content: '';
   display: block;
   clear: both;
 }
@@ -171,13 +171,13 @@ body {
 }
 
 .element-item .logo img {
-  height: 30px;
+  height: 40px;
 }
 
 .element-item .name {
   position: relative;
   top: 30px;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   text-align: center;
   font-size: 1.6em;
   font-weight: 700;
