@@ -1,3 +1,5 @@
 archive
 .DS_Store
 .vscode
+redirect.html
+auth-extract.js
